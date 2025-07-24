@@ -9,9 +9,16 @@
 title: ExactWorx
 email: info@ExactWorx.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  At ExactWorx, we empower businesses to serve their customers with greater precision, efficiency, and impact. 
+  Specializing in technology-driven solutions, we take an innovative approach to communication and management;
+  helping organizations streamline operations, strengthen client engagement, 
+  and stay ahead in a rapidly evolving digital landscape.
+  
+  Whether you're in construction, home services, business support, or technology consulting, 
+  our tailored solutions are designed to meet your exact needs. We combine smart tools with human insight 
+  to ensure every workflow, message, and customer experience is seamless and results-driven.
+  
+  ExactWorx—Exactly What Works.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ExactWorx.com" # the base hostname & protocol for your site
 twitter_username: ExactWorx
